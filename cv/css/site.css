@@ -1,0 +1,168 @@
+/* -------------------------------------
+# General
+--------------------------------------*/
+body {
+    font-family: "Nunito", "Lato", "Open Sans", sans-serif;
+    font-size: 18px;
+  }
+  
+a {
+    color: #2487ce;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: #469fdf;
+    text-decoration: none;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+/* -------------------------------------
+# Header
+--------------------------------------*/
+#header {
+    padding-bottom: 10px;
+    border-bottom: #2487ce solid;
+}
+
+#header p{
+    margin: 0;
+    padding: 0 30px 15px 30px;
+}
+
+#header .name {
+    font-size: 50px;
+    font-weight: 600;
+    color: #2487ce;
+}
+
+#header .my-image {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#header .my-image img{
+    margin-top: 25px;
+    width: 200px;
+}
+
+#header .contact {
+    text-align: right;
+}
+
+#header .contact p{
+    margin: 10px 0 10px 0;
+}
+
+#header .contact .icon {
+    font-size: 22px;
+    margin-left: 10px;
+    color: #2487ce;
+}
+
+/* -------------------------------------
+# Content
+--------------------------------------*/
+#content .section-header {
+    color: #124265;
+    font-size: 35px;
+    font-weight: 700;
+    margin: 15px 0 15px 0;
+}
+
+#content p {
+    margin: 0;
+    padding: 0;
+}
+
+#content ul {
+    list-style-type: circle;
+}
+
+/* -------------------------------------
+# About
+--------------------------------------*/
+#about {
+    margin-left: 20px;
+    line-height: 2;
+}
+
+/* -------------------------------------
+# Skills
+--------------------------------------*/
+#skills .skill-header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    color: #124265;
+}
+
+#skills .skill-content {
+    margin: 0px 10px 0px 10px;
+}
+
+/* -------------------------------------
+# Works
+--------------------------------------*/
+#works .work-content {
+    margin-bottom: 20px;
+}
+
+#works .work-content p{
+    padding: 0;
+    margin: 0;
+}
+
+#works .work-content .work-time {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    color: #1e6ca6;
+}
+
+#works .work-content .work-position {
+    font-size: 24px;
+    font-weight: 700;
+    color: #124265;
+}
+
+#works .work-content .work-company {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* -------------------------------------
+# Education
+--------------------------------------*/
+#education .education-content {
+    margin-top: 20px;
+}
+
+#education .education-content p{
+    padding: 0;
+    margin: 0;
+}
+
+#education .education-content h5{
+    padding: 0;
+    margin: 5px 0 5px 0;
+}
+
+#education .education-content .education-time {
+    font-size: 15px;
+    font-family: "Raleway", sans-serif;
+    color: #1e6ca6;
+}
+
+#education .education-content .education-place {
+    font-weight: bold;
+    color: #1e6ca6;
+}
+
+/* -------------------------------------
+# Language
+--------------------------------------*/
+  
