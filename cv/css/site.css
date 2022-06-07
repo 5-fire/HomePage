@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------*/
 #header {
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     border-bottom: #2487ce solid;
 }
 
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #124265;
     font-size: 35px;
     font-weight: 700;
-    margin: 15px 0 15px 0;
+    margin: 5px 0 5px 0;
 }
 
 #content p {
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------*/
 #about {
     margin-left: 20px;
-    line-height: 2;
+    line-height: 1.5;
 }
 
 /* -------------------------------------
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 # Works
 --------------------------------------*/
 #works .work-content {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 #works .work-content p{
@@ -121,6 +121,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-family: "Raleway", sans-serif;
     color: #1e6ca6;
+    margin-top: 5px;
 }
 
 #works .work-content .work-position {
@@ -134,11 +135,15 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
+#works ul {
+    margin-bottom: 5px;
+}
+
 /* -------------------------------------
 # Education
 --------------------------------------*/
 #education .education-content {
-    margin-top: 20px;
+    margin: 20px 0 0 30px;
 }
 
 #education .education-content p{
@@ -165,4 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 /* -------------------------------------
 # Language
 --------------------------------------*/
+#language {
+    margin: 0 0 0 30px;
+}
   
