@@ -18,7 +18,7 @@ const currentYear = new Date().getFullYear();
 $(document).ready(function () {
     $('.fullname').html(data.fullName);
     $('.jobname').html(data.jobName);
-    $('.linkedin-link').attr('href', 'https://www.linkedin.com/in/duyminhvu');
+    $('.linkedin-link').attr('href', 'https://www.linkedin.com/in/hnimvu');
     $('.instagram-link').attr('href', 'https://www.instagram.com/hnim.uv/');
     $('.github-link').attr('href', 'https://github.com/mizuvu');
 
