@@ -5,7 +5,7 @@ const data = {
     "address": 'Ho Chi Minh City, Viet Nam',
     "email": 'vd.minh@outlook.com',
     "phone": '0931 588 458',
-    "homePage": 'https://minhvu.app',
+    "homePage": 'https://vudumi.com',
     "dotnetFromYear": 2020,
     "retailFromYear": 2015,
     "retailOpsFromYear": 2018,
