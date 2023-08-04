@@ -4,7 +4,7 @@ const data = {
     "birthYear": 1990,
     "address": 'Ho Chi Minh City, Viet Nam',
     "email": 'vd.minh@outlook.com',
-    "phone": '0931 588 458',
+    "phone": '0906 792 790',
     "homePage": 'https://vudumi.com',
     "dotnetFromYear": 2020,
     "retailFromYear": 2015,
