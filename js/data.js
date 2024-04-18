@@ -1,6 +1,6 @@
 const data = {
     "fullName": 'Minh D. Vu',
-    "jobName": 'Software Executive',
+    "jobName": '.NET Developer',
     "birthYear": 1990,
     "address": 'Ho Chi Minh City, Viet Nam',
     "email": 'vd.minh@outlook.com',
