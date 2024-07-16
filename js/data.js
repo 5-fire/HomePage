@@ -5,7 +5,7 @@ const data = {
     "address": 'Ho Chi Minh City, Viet Nam',
     "email": 'vd.minh@outlook.com',
     "phone": '0906 792 790',
-    "homePage": 'https://vudumi.com',
+    "homePage": 'https://minhvu.pro',
     "dotnetFromYear": 2020,
     "retailFromYear": 2015,
     "retailOpsFromYear": 2018,
@@ -20,7 +20,7 @@ $(document).ready(function () {
     $('.jobname').html(data.jobName);
     $('.linkedin-link').attr('href', 'https://www.linkedin.com/in/hnimvu');
     $('.instagram-link').attr('href', 'https://www.instagram.com/hnim.uv/');
-    $('.github-link').attr('href', 'https://github.com/mizuvu');
+    $('.github-link').attr('href', 'https://github.com/mjzvu');
 
     $('.donet-years').html(currentYear - data.dotnetFromYear + 1);
     $('.retail-years').html(currentYear - data.retailFromYear);
