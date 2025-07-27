@@ -1,11 +1,11 @@
 const data = {
     "fullName": 'Minh D. Vu',
-    "jobName": '.NET Developer',
+    "jobName": 'Fullstack Developer',
     "birthYear": 1990,
     "address": 'Ho Chi Minh City, Viet Nam',
     "email": 'vd.minh@outlook.com',
     "phone": '0906 792 790',
-    "homePage": 'https://minhvu.pro',
+    "homePage": 'https://hnim.info',
     "dotnetFromYear": 2020,
     "retailFromYear": 2015,
     "retailOpsFromYear": 2018,
